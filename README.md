@@ -2,7 +2,9 @@
 
 ## Education
 
+
 BA in Economics
+
 MSc in Economics
 
 ## Skills
