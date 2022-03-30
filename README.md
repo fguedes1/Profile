@@ -12,5 +12,5 @@ MSc in Economics
 Programming Languages: R | Python | LaTeX
 
 
-## Projects
+## Personal Projects
 
