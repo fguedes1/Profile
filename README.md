@@ -14,7 +14,5 @@ Programming Languages: R | Python | LaTeX
 
 ## Personal Projects
 
-**Analisando Dados da PNADC Contínua no R** (_in portuguese_) : [link](/fguedes1/Analisando-PNAD-Continua/Analisando-PNAD-Continua/README.md)
-
-[link](https://github.com/fguedes1/Analisando-PNAD-Continua)
+**Analisando Dados da PNADC Contínua no R** (_in portuguese_) :  [link](https://github.com/fguedes1/Analisando-PNAD-Continua)
 
