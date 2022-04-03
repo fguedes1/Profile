@@ -2,10 +2,12 @@
 
 ## Education
 
+BA in Economics (2016)
 
-BA in Economics
+MSc in Economics (2018)
 
-MSc in Economics
+PhD Candidate in Economics
+
 
 ## Skills
 
